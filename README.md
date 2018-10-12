@@ -11,3 +11,7 @@ Here you find various patches for the game that i will create.
 ## Classes
 
 Everything i reversed so far as a Cheat Engine Table or a ReClass project.
+
+## Extract assets
+
+See [silvie](https://github.com/othias/silvie) which works great in extracting all the silver assets.
